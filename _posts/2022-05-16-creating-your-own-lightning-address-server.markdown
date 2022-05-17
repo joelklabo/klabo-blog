@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create your own Lightning Address Server"
+title:  "Create your own Lightning Address Server with Satdress"
 date:   2022-05-16
 categories: lightning bitcoin lnbits satdress
 ---
