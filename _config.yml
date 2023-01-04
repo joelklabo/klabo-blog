@@ -11,3 +11,4 @@ github_username: joelklabo
 theme: minima
 plugins:
   - jekyll-feed
+include: [".well-known"]
